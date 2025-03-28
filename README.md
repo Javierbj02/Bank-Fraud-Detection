@@ -1,4 +1,4 @@
-# Detecciónd de fraudes bancarios
+# Detección de fraudes bancarios
 Repositorio para el proyecto de la asignatura DISIA del MUII en Universidad de Castilla-La Mancha
 
 
