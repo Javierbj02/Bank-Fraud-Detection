@@ -1,4 +1,5 @@
-data2-pruebas/
+models/clasification/VotingClassifier/Ensemble Smote.joblib
+entorno/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
